@@ -1,5 +1,23 @@
 ul{
+    padding: 0;
+    width: 100%;
+}
+
+li {
+    display: inline;
+  }
+
+
+ul a{
     padding-inline-start: 0px;
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    width: 20%;
+    margin-right: 0.5%;
+    text-align: center;
+    line-height: 3;
+    color: black;
 }
 
 .photo{
